@@ -1,0 +1,4 @@
+interface:
+  display_name: "月明·文章封面"
+  short_description: "X 长文 5:2 与公众号 2.35:1 文章封面，锚点式版式、无人像"
+  default_prompt: "使用 $moonlit-article-cover 为这篇文章制作封面：先写五件套方案，再交图像生成工具出图。"
